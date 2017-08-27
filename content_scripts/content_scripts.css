@@ -3,9 +3,10 @@ surfingkeys_mark {
     color: #000;
 }
 div.surfingkeys_cursor {
-    background-color: #0642CE;
+    background-color: yellow;
     color: #0642CE;
     padding: 0px 2px;
+    margin-right: -4px;
 }
 #sk_hints>div {
     position: absolute;
