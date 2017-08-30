@@ -4,8 +4,11 @@ surfingkeys_mark {
 }
 div.surfingkeys_cursor {
     background-color: #0642CE;
-    color: #0642CE;
+    color: #f0f8ff;
+}
+div.surfingkeys_cursor:empty {
     padding: 0px 2px;
+    min-height: 12px;
 }
 #sk_hints>div {
     position: absolute;
